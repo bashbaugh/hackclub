@@ -1,6 +1,6 @@
 ---
 name: Styling Rules
-author: @bashbaugh
+author: '@bashbaugh'
 ---
 
 Let's learn some basic CSS styling rules! Remember, these are just examples. Select the rules you want and adjust them as needed!

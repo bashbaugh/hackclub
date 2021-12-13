@@ -1,6 +1,6 @@
 ---
 name: Canvas Art
-author: @bashbaugh
+author: '@bashbaugh'
 ---
 
 Hello there.

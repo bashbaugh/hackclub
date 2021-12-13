@@ -1,6 +1,6 @@
 ---
 name: CSS Selectors
-author: @bashbaugh
+author: '@bashbaugh'
 ---
 
 CSS Selectors can be used to apply CSS rules to specific element(s).
