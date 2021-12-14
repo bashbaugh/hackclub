@@ -1,5 +1,5 @@
-/** Put your CSS below. Here's an example: **/
+/** Put your CSS below. Here's an example of changing the document's font: **/
 
-.red-text {
-  color: red;
+body {
+  font-family: Arial, sans-serif;
 }
